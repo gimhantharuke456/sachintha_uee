@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435825458415",
+    "project_id": "ueesliit",
+    "storage_bucket": "ueesliit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435825458415:android:f65ddc5d336df812c32f1a",
+        "android_client_info": {
+          "package_name": "com.example.sachintha_uee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_138HHL5rkNmccArndu7j-pNYqA9G6WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
